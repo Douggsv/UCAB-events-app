@@ -1,1 +1,1 @@
-# Proyecto realizado por Douglas A Marquez y Javier Flores ||
+# Proyecto realizado por Douglas A Marquez ||
